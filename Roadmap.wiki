@@ -1,3 +1,0 @@
-#summary No more roadmap
-
-Sorry for that, some kind of a stupid bug in code.google.com :(
